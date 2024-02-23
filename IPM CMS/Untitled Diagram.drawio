@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T14:52:43.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4eDLeyIh7c4kJ-4N-csa" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T10:39:15.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0F6M3yPa1IfU9qmKoLbk" version="23.1.4" type="github" pages="2">
   <diagram name="Page-1" id="DTcIaV_wLtzkwECUcAM2">
-    <mxGraphModel dx="3027" dy="1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2094" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,6 +125,56 @@
         </mxCell>
         <mxCell id="KmnuDJoxH2z4580PtnwU-25" value="fetchData &lt;br&gt;based on Uid" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="260" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HoBbRQ8zLy5erpwaO1aw" name="Page-2">
+    <mxGraphModel dx="2156" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MzryPYdouS9RilwS4h2J-2" value="&lt;h2 style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="150" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="120" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-6" value="Web Experience" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="83" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-7" value="IPM (In-Product Marketing)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="173" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-8" value="Hussain&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="88" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-11" value="Yousry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="176" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-12" value="Abdulrahman Bashir" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="216" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-13" value="Momin&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="256" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-14" value="Artur" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="124" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-15" value="Eslam Nady" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="88" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-16" value="Yousif William" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="125" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-19" value="&lt;h2 style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 18px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;border-color: var(--border-color);&quot;&gt;Food shopping tribe&lt;/font&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="10" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-20" value="&lt;h2 style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 18px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;border-color: var(--border-color);&quot;&gt;Growth Tribe&lt;/font&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MzryPYdouS9RilwS4h2J-21" value="Commercial OPs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="83" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
